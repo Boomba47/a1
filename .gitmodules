@@ -1,0 +1,3 @@
+[submodule "s1"]
+	path = s1
+	url = https://github.com/Boomba47/s1.git
